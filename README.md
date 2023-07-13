@@ -15,6 +15,7 @@ Please kindly note that there are some restrictions if you want to use this arch
 * You are allowed to download, read, modify, or share my solution (`snake.py`) freely.
 * You are allowed to download or read the problem statement (`snake.pdf`) freely.
 * You are **NOT** allowed to modify, copy, or share the problem statement without permission from the professors who taught this course in CUHK(SZ).
+* CUHK(SZ) students who enrolled in this course but did not submit this assignment are **NOT** allowed to download, read, copy, modify, or share **any** materials (including problem statements and my solution) in this archive. **ACADEMIC HONESTY DOES MATTER**.
 
 ### Prerequisite
 * package: `turtle`
